@@ -1,0 +1,55 @@
+[
+  {
+    "id":0,
+    "name": "Cinisello Balsamo",
+    "via": "Via Camillo Golgi, 20133 Cinisello Balsamo",
+    "dettagli": "Fondata nel 2007, la sede di Cinisello Balsamo è nata con l'intento di fornire supporto di tipo psicologico a ragazzi e ragazze della zona, che hanno difficoltà a spostarsi nei centri specializzati a Milano o in altre città lombarde.",
+    "picture" : "../assets/img/cinisello.jpg",
+    "phone" : "+39 012 3333333",
+    "mail": "cinisello@associazione.it",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.5843360800905!2d9.232157215697066!3d45.47817657910111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f607694d8d%3A0xe21f46e3492632fc!2sVia+Camillo+Golgi%2C+42-50%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525938003706"
+  },
+  {
+    "id":1,
+    "name": "Como",
+    "via": "Via Camillo Golgi, 20133 Como",
+    "dettagli": "Fondata nel 2004, la nostra sede di Como si contraddistingue per interventi mirati al supporto psicologico  e di logopedia per i nostri amici con problemi comunicativi a diversi livelli. <br>Situata in pieno centro, a pochi passi dalla stazione Como Lago, è facilmente raggiungibile da tutte le province lombarde.",
+    "picture" : "../assets/img/como.jpg",
+    "phone" : "+39 012 3333333",
+    "mail": "como@associazione.it",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.5843360800905!2d9.232157215697066!3d45.47817657910111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f607694d8d%3A0xe21f46e3492632fc!2sVia+Camillo+Golgi%2C+42-50%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525938003706"
+  },
+
+  {
+    "id":2,
+    "name": "Milano Bovisa",
+    "via": "Via Camillo Golgi, 20133 Milano",
+    "dettagli": "Fondato nel 2011, la nostra sede di Milano Bovisa nasce per sopperire alla mancanza di centri specializzati in fisioterapia e logopedia nella zona nord di Milano. È una delle sedi più grandi, nata da un progetto ambizioso finanziato in parte dal comune di Milano e da Esselunga. I servizi si arricchiscono di uno sostegno allo studio e all'inserimento nel mondo lavorativo per i ragazzi di tutte le età, anche a livello universitario.<br>Facilmente raggiungibile sia con i mezzi pubblici che in auto, la sede di Cinisello Balsamo è dotata di un ampio parcheggio.",
+    "picture" : "../assets/img/bovisa.jpg",
+    "phone" : "+39 012 3333333",
+    "mail": "bovisa@associazione.it",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.5843360800905!2d9.232157215697066!3d45.47817657910111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f607694d8d%3A0xe21f46e3492632fc!2sVia+Camillo+Golgi%2C+42-50%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525938003706"
+  },
+  {
+    "id":3,
+    "name": "Milano Lambrate",
+    "via": "Via Camillo Golgi, 20133 Milano",
+    "dettagli": "Sede più recente, nata nel 2017 con l'obiettivo di fornire supporto ai ragazzi della zona Est di Milano.<br>La sua posizione, nel quartiere Città Studi, risulta strategica perché permette a molti studenti con difficoltà cognitive o di comunicazione di trovare supporto senza doversi spostare ulteriormente.<br>La vicinanza alla stazione Centrale e all'aeroporto di Linate lo rende facilmente accessibile anche dai non residenti in città.",
+    "picture" : "../assets/img/lambrate.jpg",
+    "phone" : "+39 012 3333333",
+    "mail": "lambrate@associazione.it",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.5843360800905!2d9.232157215697066!3d45.47817657910111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f607694d8d%3A0xe21f46e3492632fc!2sVia+Camillo+Golgi%2C+42-50%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525938003706"
+  },
+
+  {
+    "id":4,
+    "name": "Monza",
+    "via": "Via Camillo Golgi, 20133 Milano",
+    "dettagli": "Centro specializzato in fisioterapia, nato nel 2013 sotto la spinta della dottoressa Viola, data la mancanza di altre strutture d'eccellenza nella provincia. Nel corso degli anni si è confermato come uno dei centri specializzati più importanti della Lombardia.",
+    "picture" : "../assets/img/monza.jpg",
+    "phone" : "+39 012 3333333",
+    "mail": "monza@associazione.it",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.5843360800905!2d9.232157215697066!3d45.47817657910111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f607694d8d%3A0xe21f46e3492632fc!2sVia+Camillo+Golgi%2C+42-50%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525938003706"
+  }
+]
+

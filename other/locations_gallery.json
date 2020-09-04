@@ -1,0 +1,92 @@
+[
+  {
+    "id_loc": 0,
+    "picture":"../assets/img/gallery/cinisello1.jpg"
+  },
+  {
+    "id_loc": 0,
+    "picture":"../assets/img/gallery/cinisello2.jpg"
+  },
+  {
+    "id_loc": 0,
+    "picture":"../assets/img/gallery/cinisello3.jpg"
+  },
+  {
+    "id_loc": 0,
+    "picture":"../assets/img/gallery/cinisello4.jpg"
+  },
+  {
+    "id_loc": 0,
+    "picture":"../assets/img/gallery/cinisello5.jpg"
+  },
+  {
+    "id_loc": 1,
+    "picture":"../assets/img/gallery/como1.jpg"
+  },
+  {
+    "id_loc": 1,
+    "picture":"../assets/img/gallery/como2.jpg"
+  },
+  {
+    "id_loc": 1,
+    "picture":"../assets/img/gallery/como3.jpg"
+  },
+  {
+    "id_loc": 2,
+    "picture":"../assets/img/gallery/bovisa1.jpg"
+  },
+  {
+    "id_loc": 2,
+    "picture":"../assets/img/gallery/bovisa2.jpg"
+  },
+  {
+    "id_loc": 2,
+    "picture":"../assets/img/gallery/bovisa3.jpg"
+  },
+  {
+    "id_loc": 2,
+    "picture":"../assets/img/gallery/bovisa4.jpg"
+  },
+  {
+    "id_loc": 2,
+    "picture":"../assets/img/gallery/bovisa5.jpg"
+  },
+
+  {
+    "id_loc": 3,
+    "picture":"../assets/img/gallery/lambrate1.jpg"
+  },
+  {
+    "id_loc": 3,
+    "picture":"../assets/img/gallery/lambrate2.jpg"
+  },
+  {
+    "id_loc": 3,
+    "picture":"../assets/img/gallery/lambrate3.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza1.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza2.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza3.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza4.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza5.jpg"
+  },
+  {
+    "id_loc": 4,
+    "picture":"../assets/img/gallery/monza6.jpg"
+  }
+]
+

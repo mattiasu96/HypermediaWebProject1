@@ -1,0 +1,36 @@
+[ 
+    {
+    "id_doc": 0,
+    "id_loc": 2
+    },
+     {
+    "id_doc": 0,
+    "id_loc": 3
+    },
+     {
+    "id_doc": 1,
+    "id_loc": 2
+    },
+     {
+    "id_doc": 1,
+    "id_loc": 3
+    },
+     {
+    "id_doc": 2,
+    "id_loc": 1
+    },
+     {
+    "id_doc": 3,
+    "id_loc": 0
+    },
+     {
+    "id_doc": 4,
+    "id_loc": 2
+    },
+     {
+    "id_doc": 4,
+    "id_loc": 4
+    }
+]
+
+    

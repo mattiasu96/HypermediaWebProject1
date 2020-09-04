@@ -1,0 +1,54 @@
+[ 
+    {
+    "id": 0,
+    "name": "Bianchi Michela",
+    "job": "psicologia e logopedia",
+    "descrizione": "Laureata in scienze della formazione. Opera dal 2000. Volontaria dal 2011",
+    "biografia": "Nata a Milano nel 1975, Bianchi Michela si laurea in scienze della formazione nel 1999 e dopo una lunga esperienza nelle scuole decide di dedicarsi al volontariato presso la nostra associazione. Appassionata di fumetti.",
+    "picture" : "../assets/img/faces/1.jpg",
+    "phone" : "+39 333 3333333",
+    "mail" : "bianchi.michela@associazione.it"
+  },
+    {
+    "id": 1,
+    "name": "Fumagalli Marco",
+    "job": "scienze della formazione",
+    "descrizione": "Specialista in logopedia. Opera dal 2003.<br>Volontario dell'associazione dal 2005 ",
+    "biografia": " Nato a Varese nel 1971, si laurea nel 2002 presso l'università di Pavia. Sposato con due figli, appassionato di pesca sportiva e flauto dolce. Si è avvicinato all'associazione nel 2005 per rendere il mondo un posto migliore. Grazie a lui sono nate iniziative come “Parliamoci Chiaro” e “Telefono senza fili”, atte a sensibilizzare l’opinione pubblica riguardo i problemi comunicativi in tenera età.",
+    "picture" : "../assets/img/faces/2.jpg",
+    "phone" : "+39 333 3333333",
+    "mail" : "fumagalli.marco@associazione.it"
+  },
+    {
+    "id": 2,
+    "name": "Rossi Mario",
+    "job": "psicologia e logopedia",
+    "descrizione": "Specialista in logopedia, psicoterapia, comunicazione aumentativa alternativa <br>Opera dal 1990, fondatore e volontario dal 2004",
+    "biografia": " Nato a Como nel 1960, si laurea nel 1985 in logopedia presso l'università di Pavia e successivamente acquisisce la laurea in psicologia nel 1989 presso l'università degli studi di Milano.È stato consigliere comunale nel comune di Como dal 1990 al 1995.Fonda l'associazione nel 2004 con lo scopo di fornire servizi di alto livello ed accessibili alle famiglie in difficoltà.Sposato con un figlio. Colleziona francobolli e legge libri gialli.",
+    "picture" : "../assets/img/faces/3.jpg",
+    "phone" : "+39 333 3333333",
+    "mail" : "rossi.mario@associazione.it"
+  },
+    {
+    "id": 3,
+    "name": "Verdi Marco",
+    "job": "logopedia",
+    "descrizione": "Specialista in psicoterapia. Opera dal 2006, volontario dal 2007",
+    "biografia": "Nato a Monza nel 1980. Conosce l'associazione durante gli anni della specialistica e decide che, una volta laureato, presterà parte del suo tempo per aiutare i più bisognosi.Appassionato di ciclismo. Ha un trascorso come ciclista professionista, che raggiunge l’apice con la partecipazione al Giro d’Italia del 2001.",
+    "picture" : "../assets/img/faces/4.jpg",
+    "phone" : "+39 333 3333333",
+    "mail" : "verdi.marco@associazione.it"
+  },
+
+  {
+    "id": 4,
+    "name": "Viola Rita",
+    "job": "Assistenza infanzia",
+    "descrizione": "Laureata in fisioterapia nell'anno 2000. Volontaria dal 2011",
+    "biografia": "Nata a Monza nel 1976, si laurea a pieni voti nel 2000 in fisioterapia. Dopo aver lavorato per oltre un  decennio presso una delle più famose cliniche a Milano, decide di tornare nella sua città natale per fornire un servizio di pari qualità alle famiglie della sua città. Ha un trascorso come giocatrice professionista di calcio a 5 e oggi nel tempo libero allena la squadra femminile di calcio a 11 di Monza.",
+    "picture" : "../assets/img/faces/5.jpg",
+    "phone" : "+39 333 3333333",
+    "mail" : "viola.rita@associazione.it"
+  }
+]
+

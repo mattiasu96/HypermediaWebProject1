@@ -1,0 +1,23 @@
+{
+  "name": "polimi-hyp-2018-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://polimi-hyp-2018-10525863@bitbucket.org/polimi-hyp-2018-team-10525863/polimi-hyp-2018-project.git",
+  "author": "polimi-hyp-2018-team-10525863 Mattia Suricchio, Guido Sergi, Luca Zorzenon",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "knex": "0.14.6",
+    "lodash": "^4.17.10",
+    "pg": "^6.2.3",
+    "sqlite3": "3.1.8",
+    "yarn": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

@@ -1,0 +1,38 @@
+[ 
+  {
+    "id":0,
+    "name": "Comunicazione aumentativa alternativa",
+    "descrizione": "Con Comunicazione Aumentativa e Alternativa (detta anche CAA) si indica un insieme di conoscenze, tecniche, strategie e tecnologie atte a semplificare ed incrementare la comunicazione nelle persone che hanno difficoltà ad usare i più comuni canali comunicativi, con particolare riguardo al linguaggio orale e alla scrittura.",
+    "dettagli": "Viene definita Aumentativa in quanto non si limita a sostituire o a proporre nuove modalità comunicative ma, analizzando le competenze del soggetto, indica strategie per incrementare le stesse (ad esempio le vocalizzazioni o il linguaggio verbale esistente, i gesti, nonché i segni). Viene definita Alternativa in quanto si avvale di strategie e tecniche diverse dal linguaggio parlato. Tale 'approccio' ha come obiettivo la creazione di opportunità di reale comunicazione e di effettivo coinvolgimento della persona; pertanto dev'essere flessibile e su misura della persona stessa.",
+    "picture" : "../assets/img/dis1.jpg"
+  },
+  {
+    "id":1,
+    "name": "Fisioterapia",
+    "descrizione": "La fisioterapia (dal greco Φυσιο = naturale e θεραπεία = terapia) è una branca della medicina che si occupa della prevenzione, cura e riabilitazione dei pazienti affetti da patologie o disfunzioni congenite o acquisite in ambito muscoloscheletrico, neurologico e viscerale attraverso molteplici interventi terapeutici, quali: terapia fisica, terapia manuale/manipolativa, massoterapia, terapia posturale, chinesiterapia e altre.",
+    "dettagli": "La fisioterapia è praticata dal laureato in fisioterapia, appartenente alla classe delle professioni sanitarie della riabilitazione. Il fisioterapista esercita le proprie competenze con titolarità e autonomia professionale, in ambito libero professionale oppure in contesto di equipe multidisciplinare insieme ad altre professioni sanitarie. Il fisioterapista gestisce il paziente nel recupero funzionale per quanto concerne le menomazioni e le disabilità motorie qualunque ne sia la causa. Elabora e attua sotto la propria responsabilità le metodologie riabilitative di base e speciali. Il fisioterapista, quindi, in fase clinica di post-acuzie utilizza tecniche terapeutiche basate sull'esercizio miranti al recupero di abilità perdute a causa di un evento morboso recente, applicando metodiche di base e tecniche speciali per il raggiungimento dello scopo. Questo include il benessere fisico, psicologico, emozionale e sociale. Ciò richiede l'interazione tra il medico, il fisioterapista, il paziente, l'équipe riabilitativa, le famiglie, i care-givers, case-managers, le comunità. La fisioterapia può intervenire in diversi campi d'azione in cui si incontrano patologie osteo-neuromuscolari.: ortopedia, neurologia, reumatologia, geriatria, cardiologia, pneumologia, pediatria, stomatognaticaurologia e ginecologia.",
+    "picture" : "../assets/img/dis2.jpg"
+  },
+  {
+    "id":2,
+    "name": "Logopedia",
+    "descrizione": "La logopedia (dalle parole greche logos 'discorso' e paideia 'educazione') è una branca della medicina che si occupa dello studio, della prevenzione, della valutazione e della cura delle patologie e dei disturbi della voce, del linguaggio, della comunicazione, della deglutizione e dei disturbi cognitivi connessi (relativi, ad esempio, alla memoria e all'apprendimento).",
+    "dettagli": "I logopedisti elaborano, anche in équipe multidisciplinare, il bilancio logopedico volto all'individuazione e alla soddisfazione del bisogno di salute del paziente; praticano attività terapeutica per la rieducazione delle disabilità comunicative e cognitive, utilizzando terapie logopediche di abilitazione e riabilitazione della comunicazione e del linguaggio, verbali e non verbali; propongono l'adozione di ausili, ne addestrano all'uso e ne verificano l'efficacia; svolgono attività di studio, didattica e consulenza professionale nei servizi sanitari e in quelli ove si richiedono le loro competenze professionali; verificano le rispondenze della metodologia riabilitativa attuata agli obiettivi di recupero funzionale; svolgono la loro attività professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o in regime libero professionale.",
+    "picture" : "../assets/img/dis3.jpg"
+  },
+    {
+    "id":3,
+    "name": "Psicoterapia",
+    "descrizione": "La psicoterapia è una pratica terapeutica della psicologia clinica e della psichiatria, ad opera di uno psicoterapeuta (psicologo o medico, adeguatamente specializzato), che si occupa della cura di disturbi psicopatologici di natura ed entità diversa, che vanno dal modesto disadattamento o disagio personale fino alla sintomatologia grave, e che possono manifestarsi in sintomi nevrotici oppure psicotici tali da nuocere al benessere di una persona fino ad ostacolarne lo sviluppo, causando fattiva disabilità nella vita dell'individuo.",
+    "dettagli": "Etimologicamente la parola psicoterapia - 'cura dell'anima' - riconduce alle terapie della psiche realizzate con strumenti psicologici quali il colloquio, l'analisi interiore, il confronto, la relazione ecc., nella finalità del cambiamento dei processi psicologici dai quali dipende il malessere o lo stile di vita inadeguato, e connotati spesso da sintomi come ansia, depressione, fobie, ecc. A tal fine la psicoterapia si avvale di tecniche applicative della psicologia, dalle quali prende specificazione nei suoi svariati orientamenti teorici: psicoterapia psicodinamica, psicoterapia cognitivo-comportamentale, psicoterapia adleriana, psicoterapia ericksoniana, psicoterapia sistemica, psicosintesi, psicoterapia umanistica, psicoterapia con la procedura immaginativa ecc...",
+    "picture" : "../assets/img/dis5.jpg"
+  },
+  {
+    "id":4,
+    "name": "Sostegno allo studio e inserimento lavorativo",
+    "descrizione": "L’Associazione crede che per una sana crescita personale sia necessario accompagnare i ragazzi con problemi d’apprendimento e/o comunicativi nel loro percorso didattico e lavorativo. Da qui nasce il programma di sostegno allo studio e inserimento attività lavorative. Il sostegno allo studio è dedicato a bambini e ragazzi di tutte le età, anche a livello universitario. L’inserimento attività lavorative si concentra principalmente su ragazzi con licenza media o diploma di scuola superiore.",
+    "dettagli": "Tra i servizi rivolti a pre-adolescenti e adolescenti, i Gruppi educativi di sostegno allo studio (GESS) prevedono un accompagnamento pomeridiano, da parte di operatori qualificati, all’esperienza scolastica, calibrato su bisogni individuali e di gruppo. L’accesso può essere concordato con i Servizi Sociali Associati, che insieme ai Comuni promuovono e finanziano i servizi, oppure in stretta collaborazione progettuale con i plessi scolastici territoriali. Per supporto a livello universitario è necessaria prenotazione telefonica. L’attività inserimento attività lavorative si basa su incontri settimanali con aziende alla ricerca di personale seguite da workshop su come migliorare il proprio CV ed affinare le proprie skills.",
+    "picture" : "../assets/img/dis4.jpg"
+  }
+]
+

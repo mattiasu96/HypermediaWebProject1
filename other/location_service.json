@@ -1,0 +1,48 @@
+[ 
+    {
+    "id_loc": 0,
+    "id_ser": 0
+    },
+    {
+    "id_loc": 0,
+    "id_ser": 3
+    },
+    {
+    "id_loc": 1,
+    "id_ser": 0
+    },
+    {
+    "id_loc": 1,
+    "id_ser": 2
+    },
+    {
+    "id_loc": 1,
+    "id_ser": 3
+    },
+    {
+    "id_loc": 2,
+    "id_ser": 1
+    },
+    {
+    "id_loc": 2,
+    "id_ser": 2
+    },
+    {
+    "id_loc": 2,
+    "id_ser": 4
+    },
+    {
+    "id_loc": 3,
+    "id_ser": 2
+    },
+    {
+    "id_loc": 3,
+    "id_ser": 4
+    },
+    {
+    "id_loc": 4,
+    "id_ser": 1
+    }
+]
+
+    
